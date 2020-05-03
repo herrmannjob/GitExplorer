@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://githubexplorerghg.netlify.app/" target="_blank">
+  <a href="https://5eaec2cdbc73968885ceac8f--githubexplorerghg.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
